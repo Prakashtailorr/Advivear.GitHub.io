@@ -1,0 +1,24 @@
+# 📱 Ad Viewer App – Earn Rewards
+
+इस ऐप में आप वीडियो विज्ञापन देख कर, दोस्तों को रेफ़र करके, और अन्य टास्क पूरी करके रिवॉर्ड्स कमा सकते हैं।
+
+## 🚀 Features
+
+- 🎥 Watch Ads and earn coins
+- 🤝 Refer friends and earn bonuses
+- 🎁 Daily bonus rewards
+- ✅ Task tracking
+- 👤 User profile with avatar
+
+## 🛠️ Tech Stack
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- TypeScript
+
+## 📦 Scripts
+
+```bash
+npm install
+npm run dev
